@@ -1,1 +1,2 @@
 # zero-shot-text-classification using deep learning algorithms
+Zero-shot text classification is a method used to categorize text data without any prior training on the specific categories or topics. In other words, it is a technique of classifying text into multiple categories or labels without having any examples or pre-existing training data for those categories.Here, we are using deep learning algorithms GCN,BERT,CNN and LSTM and training the models for text classification. The output of this project is the sentiment of the text i.e,positive or negative.

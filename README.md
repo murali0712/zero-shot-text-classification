@@ -7,7 +7,7 @@ The data used in this project is taken from twitter API using snsscrape module. 
 
 
 # Sample input and output cases for text classification:
-Case-1: 
+# Case-1: 
 
 ![image](https://github.com/murali0712/zero-shot-text-classification/assets/98154511/211a8ef9-9cc0-4886-b309-57f759f6bd3e)
 
@@ -16,7 +16,7 @@ and the output is
 ![image](https://github.com/murali0712/zero-shot-text-classification/assets/98154511/f3efbc19-8fec-41ec-8077-f13ee673a5f5)
 
 
-Case-2:
+# Case-2:
 
 ![image](https://github.com/murali0712/zero-shot-text-classification/assets/98154511/84cffa43-3b71-4e39-944f-c8d676dfce4d)
 
